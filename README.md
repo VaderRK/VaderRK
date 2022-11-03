@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rakshan Kotian</h1>
-<h3 align="center">Undergrad</h3>
+<h3 align="center"> IT Undergrad</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaderrk&label=Profile%20views&color=0e75b6&style=flat" alt="vaderrk" /> </p>
 
